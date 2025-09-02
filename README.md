@@ -1,0 +1,1 @@
+Projeto em Python para verificar a jornada semanal de 44h. Caso ultrapasse, calcula automaticamente as horas extras com acréscimo de 50% no valor da hora normal. Inclui interface em HTML e CSS para simulação visual do sistema.
